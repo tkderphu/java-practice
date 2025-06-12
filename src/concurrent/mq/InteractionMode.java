@@ -26,6 +26,7 @@ public class InteractionMode implements Runnable{
             try {
                 String input = scanner.nextLine().trim();
                 if (input.equals("quit")) {
+
                     break;
                 }
 

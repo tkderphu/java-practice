@@ -1,4 +1,4 @@
-package concurrent.build_server_java_web;
+package concurrent.webSocket;
 
 import java.io.*;
 import java.net.ServerSocket;
